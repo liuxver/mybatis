@@ -1,0 +1,2 @@
+# mybatis
+这是我学习mybatis时候的做的小项目，很简单，分为三个小内容，一个是mybatis的详细学习，包括各种映射机制，一个是mybatis的逆向工程的小例子，还有一个是整合mybatis和spring的项目
